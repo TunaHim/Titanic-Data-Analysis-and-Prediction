@@ -3,7 +3,7 @@
 ### Titanic Data : Exploratory Data Analysis & Survivor's Prediction
 
 #### EDA Analysis:
->  Check the Data  + Correlation Maps + Check NaN values
++  Check the Data  + Correlation Maps + Check NaN values
 >  Question: Calculate the number of surviving/non-surviving passengers.
 >  Question: Calculate the proportion of surviving 1st class passengers with regards to the total number of 1st class passengers.
 >  Question: Create a bar plot with separate bars for male/female passengers and 1st/2nd/3rd class passengers.

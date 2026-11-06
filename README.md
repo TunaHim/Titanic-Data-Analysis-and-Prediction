@@ -19,3 +19,15 @@ Logistic Regression model:  First I choose the features and did a train_test_spl
 + Build a Baseline Model: To better understand the data baseline model is created. 
 DummyClassifier: A classifier model that make predictions without trying to find patterns in the data. Calculate the accuracy, recall, precision and f1 score with different strategy. 
 + RandomForest: This is done to check the important features in our dataset. 
+
+## Data sources and access
+
+| Data | Source | Format |
+|---|---|---|
+| Titanic passenger list (training and test sets) | the standard Titanic dataset used in the Kaggle "Titanic – Machine Learning from Disaster" competition | `train.csv`, `test.csv` |
+
+The data remain under the terms of their original provider.
+
+## Licence
+
+Code: MIT, see [LICENSE](LICENSE). Data: see *Data sources and access*; third-party data keep their own terms.
